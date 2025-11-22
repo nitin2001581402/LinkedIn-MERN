@@ -24,10 +24,8 @@ It allows users to log in, create posts, view feeds, connect with people, and ma
 
 | Dashboard View                        | Skill Gap & Career Roadmap Detail           |
 |-------------------------------------|------------------------------------|
-|<img width="1211" height="828" alt="Screenshot 2025-11-22 221655" src="https://github.com/user-attachments/assets/0dca7c5c-e069-4d5f-9856-9c6f5bfce699" />
- |<img width="1275" height="613" alt="Screenshot 2025-11-22 221819" src="https://github.com/user-attachments/assets/a65e33e9-fe0e-4962-bebc-ec4efcc7742f" />
- | |<img width="1259" height="603" alt="Screenshot 2025-11-22 221926" src="https://github.com/user-attachments/assets/835d0ceb-8297-4238-a20a-e6e9566a21ce" />
-||<img width="1322" height="578" alt="Screenshot 2025-11-22 222055" src="https://github.com/user-attachments/assets/f013ff5b-7d42-444e-8780-33dce5fd283c" />|
+|<img width="1211" height="828" alt="Screenshot 2025-11-22 221655" src="https://github.com/user-attachments/assets/0dca7c5c-e069-4d5f-9856-9c6f5bfce699" />|<img width="1275" height="613" alt="Screenshot 2025-11-22 221819" src="https://github.com/user-attachments/assets/a65e33e9-fe0e-4962-bebc-ec4efcc7742f" /
+|<img width="1259" height="603" alt="Screenshot 2025-11-22 221926" src="https://github.com/user-attachments/assets/835d0ceb-8297-4238-a20a-e6e9566a21ce" /> |<img width="1322" height="578" alt="Screenshot 2025-11-22 222055" src="https://github.com/user-attachments/assets/f013ff5b-7d42-444e-8780-33dce5fd283c" />|
 
 
 ---
@@ -78,5 +76,6 @@ Open a new terminal:
 cd frontend
 npm install
 npm run dev
+
 
 
